@@ -2,6 +2,7 @@
   "name": "desafio",
   "version": "1.0.0",
   "main": "src/server.js",
+  "repository": "https://github.com/cnkumbula/Ignite_chapter_I.git",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
